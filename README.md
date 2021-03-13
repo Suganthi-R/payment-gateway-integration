@@ -1,2 +1,2 @@
 # payment-gateway-integration
-Integrating  payment gateway in the website 
+Integrating Razor pay payment gateway in the website.
